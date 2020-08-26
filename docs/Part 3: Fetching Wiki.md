@@ -562,7 +562,7 @@ if __name__ == '__main__':
 
 ```
 
-I've also uploaded all the tutorial code to [GitHub](https://github.com/samzhangjy/GoogleSpider), so check that out if you want. The commit hash will be updated after I finished writing this post.
+I've also uploaded all the tutorial code to [GitHub](https://github.com/samzhangjy/GoogleSpider), so check that out if you want. Click on [this link](https://github.com/samzhangjy/GoogleSpider/tree/fc819155e5e6c9ac88554e1d14c78ca695705398) to see the code for this tutorial until Part 3.
 
 ## Conclusion
 
